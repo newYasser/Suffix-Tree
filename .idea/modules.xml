@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SuffixTree.iml" filepath="$PROJECT_DIR$/.idea/SuffixTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Suffix-Tree.iml" filepath="$PROJECT_DIR$/.idea/Suffix-Tree.iml" />
     </modules>
   </component>
 </project>

@@ -163,13 +163,13 @@ public:
         }
         if(flag)
         {
-            cout << s << ' ';
+            cout << s << endl;
+            return;
         }
         int j = -1;
         if(subStringIdx == size) subStringIdx = 0;
 
         find(root->children[idx],j + 1,subString,subStringIdx,size);
-        cout << endl;
     }
 
    void find(char*subString,int size)
